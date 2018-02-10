@@ -1,0 +1,16 @@
+{
+  "name": "grasser",
+  "version": "0.0.1",
+  "description": "For managing git contributions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "contributions"
+  ],
+  "author": "tell-y",
+  "repository": "github:tell-y/greener",
+  "license": "MIT"
+}
